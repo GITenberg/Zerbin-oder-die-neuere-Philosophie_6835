@@ -1,0 +1,31 @@
+_repo: Zerbin-oder-die-neuere-Philosophie_6835
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lenz, Jakob Michael Reinhold
+    aliases:
+    - Lenz, J. M. R. (Jakob Michael Reinhold)
+    - Lenz, Reinhold
+    birthdate: 1751
+    deathdate: 1792
+    gutenberg_agent_id: '2208'
+    url: http://www.gutenberg.org/2009/agents/2208
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Jakob_Michael_Reinhold_Lenz
+    - http://en.wikipedia.org/wiki/Jakob_Michael_Reinhold_Lenz
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6835'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Social life and customs -- 18th century -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Zerbin, oder die neuere Philosophie
+url: http://www.gutenberg.org/ebooks/6835
